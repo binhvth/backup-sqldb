@@ -1,0 +1,2 @@
+DBName1,SERVER\SQLEXPRESS,[Địa chỉ mạng để copy file bk]\\192.168.1.100\backup\SQL\EXPRESS
+DBName2,SERVER\SQLEXPRESS,[Địa chỉ mạng để copy file bk]\\192.168.1.100\backup\SQL\EXPRESS
