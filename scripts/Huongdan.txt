@@ -1,0 +1,5 @@
+#File bk-sqldb.ps1 và data.txt chép vào windows server đang chạy sql server express cần tạo backup tự động.
+
+---File data.txt---
+[DBName1],[Tên sql server]SERVER\SQLEXPRESS,[Địa chỉ mạng để copy file bk]\\192.168.1.100\backup\SQL\EXPRESS
+
